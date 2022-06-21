@@ -1,4 +1,4 @@
-## fABBLIX
+## FABBLIX
 
 This example shows how frontend and backend are separated by implementing a star list page, and a single star page with movie list.
 
